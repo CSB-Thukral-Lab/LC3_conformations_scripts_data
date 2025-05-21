@@ -1,0 +1,15 @@
+fast_cont_mat.py computes intra-protein contact occupancy based on the following conditions
+    i) A contact is counted for two residues if any of two heavy atoms belonging to two residues are within the threshold distance
+    ii) threshold distance is defined as 5 Angstorm
+The script utilizes the MPI to paralellize contact occupancies across all residue pairs. Each processor takes a chunk of residue pairs and returns a csv file. If 5 processors are defined, the script returns 5 csv file each consisting of the contact occupancy data for its corresponding residue chunks.
+
+Example:
+
+mpiexec -np NUMBER_OF_PROCESSORS python fast_cont_mat.py <pdb_traj_file> <state: PRE/UNB/BND> <output_file_name> 
+
+mpiexec -np 5 python fast_cont_mat.py ../../../LC3_MAIN_TRAJECTORIES/PROTEIN_ONLY_FITTED/membrane_bound_apo/LC3B_ER_SIM1_1us_dt1000.pdb UNB LC3B_MEM_BOUND_APO_S1_CONT_DAT
+
+
+These individual files are merged with the script contact_map_maker.py
+
+We simply define overall occupancy as the average occupancy across three replicates. This computed with the script consensus_cont_mat_maker.py.
