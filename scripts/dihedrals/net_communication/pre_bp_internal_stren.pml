@@ -1,0 +1,16 @@
+set sphere_scale, 0.203717, resid 19 and name CA
+set sphere_scale, 0.217383, resid 23 and name CA
+set sphere_scale, 0.219604, resid 32 and name CA
+set sphere_scale, 0.320663, resid 34 and name CA
+set sphere_scale, 0.398859, resid 51 and name CA
+set sphere_scale, 0.272820, resid 53 and name CA
+set sphere_scale, 0.208314, resid 108 and name CA
+set sphere_scale, 0.373494, resid 35 and name CA
+set sphere_scale, 0.401469, resid 52 and name CA
+set sphere_scale, 0.338314, resid 54 and name CA
+set sphere_scale, 0.315532, resid 55 and name CA
+set sphere_scale, 0.376365, resid 58 and name CA
+set sphere_scale, 0.416862, resid 63 and name CA
+set sphere_scale, 0.268609, resid 66 and name CA
+set sphere_scale, 0.298740, resid 67 and name CA
+set sphere_scale, 0.374188, resid 70 and name CA
