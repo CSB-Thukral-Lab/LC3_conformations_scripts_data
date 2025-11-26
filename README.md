@@ -34,3 +34,10 @@ Here is the list of important data/scripts that can be accessed (grouped accordi
 ### 6. Screening of mutant candidates [Related to Figure 3c, 3e] <br>
  * Probing distance calculations for the allosteric site are provided here `/scripts/TRIAD_MUTANT_CANDIDATES/triad_distance_checks.ipynb` <br>
  * Plots `/plots/TRIAD_MUTANT_CANDIDATES` <br>
+<<<<<<< HEAD
+=======
+
+
+
+ 
+>>>>>>> 818a16c0534bfc6b2974175c17229971e0a0f087
