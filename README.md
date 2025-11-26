@@ -35,6 +35,6 @@ Here is the list of important data/scripts that can be accessed (grouped accordi
  * Probing distance calculations for the allosteric site are provided here `/scripts/TRIAD_MUTANT_CANDIDATES/triad_distance_checks.ipynb` <br>
  * Plots `/plots/TRIAD_MUTANT_CANDIDATES` <br>
 ### 7. Starting structures for the MDSimulations are provided in the following directories
- * Core LC3 states simulations [Cytosolic/membrane-bound apo/membrane-bound with p62-LIR]: starting_conformations/LC3_states
- * Mutant candidates [All 13 allosteric site mutant candidates chosen for screening]
+ * Core LC3 states simulations [Cytosolic/membrane-bound apo/membrane-bound with p62-LIR]: `starting_conformations/LC3_states`
+ * Mutant candidates [All 13 allosteric site mutant candidates chosen for screening]: `starting_conformations/mutant_candidates_for_allosteric_site`
 
