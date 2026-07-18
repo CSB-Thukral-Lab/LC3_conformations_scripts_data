@@ -1,0 +1,63 @@
+**SOURCE DATA FOR THE MANUSCRIPT "A programmable lipid-triggered allosteric site modulates LC3 LIR receptor binding activity"**
+
+Source Data Fig.1 
+=================
+Numerical source data from MD simulations (state-specific contacts, distances between charged residues and lipid head, dihedral delta entropy and rotamer shift)
+
+Source Data Fig.2
+=================
+Numerical source data from MD Simulations (binding pocket volume and distance landscape, region-wise contribution to overall coupling, residue-wise communication strength, secondary structure-associated unique contacts and conservation score of the allosteric site)
+
+Source Data Fig.3
+=================
+Numerical source data from MD Simulations (Allosteric site H3-L6 distances for all mutant candidates, binding pocket entropy for selected mutant designs). 
+Statistical source data from ITC experiments 
+
+Source Data Fig.4
+=================
+Snapshots of |Fo|-|Fc| density maps contoured at 3 σ for the L6 region (shown for both LC3AS_Mutant1 apo and p62 LIR-bound structures).
+
+Source Data Fig.5
+=================
+Statistical source data from cell biology experiments (% of LC3/p62 colocalization for LC3WT and LC3 Mutants, relative levels of eGFP LC3- mCherry p62, net flux of LC3 and various receptors)
+Mean autophagosome like structures(LC3+)/ cell
+Uncropped blots with molecular weight markers
+
+Source Data Supplementary Fig.12
+================================
+Numerical source data from MD simulations (HP1, HP2 volume data for LC3M-, LC3M+R- and LC3M+R+ simulations)
+
+Source Data Supplementary Fig.14
+================================
+Numerical source data from MD simulations (HP1, HP2 and net volume data for p62-LIR, OPTN-LIR and NBR1-LIR bound simulations)
+
+Source Data Supplementary Fig.19
+================================
+Numerical source data from MD simulations (Allosteric site a3-L6 distances for LC3M-, LC3M+R- and LC3M+R+ simulations)
+
+Source Data Supplementary Fig.22
+================================
+Numerical source data from MD simulations (Binding pocket landscape for WT LC3M-(Sim- 1), LC3M+R-(Sim- 1), LC3AS_Mutant1 in M- and M+ states)
+
+Source Data Supplementary Fig.23
+================================
+Statistical source data from ITC experiments (Thermodynamics values for LC3WT, LC3AS_Mutant1, and LC3AS_Mutant2)
+
+Source Data Supplementary Fig.27
+================================
+IP data for LC3B WT/AS Mutants in ΔG background
+Uncropped blots with molecular weight markers
+
+Source Data Supplementary Fig.28
+================================
+Statistical source data from stable cell line experiments (% of LC3/p62 colocalization for LC3WT and LC3AS_Mutant1 , number of LC3 puncta/cell, and % of LC3/p62 colocalization across time)
+
+Source Data Supplementary Fig.29
+================================
+Statistical source data from lysosomal flux assays for LC3WT and LC3AS_Mutant1 with p62, FAM134B and VPS4A receptors.
+
+List of antibodies used in the study
+===================================
+
+Details of the plasmids used in the study
+===================================
