@@ -1,4 +1,4 @@
-# A novel lipid-triggered allosteric site modulates LC3-LIR receptor binding activity
+# A programmable lipid-triggered allosteric site modulates LC3 LIR receptor binding activity
 This repository contains custom scripts [Python code and Jupyter notebooks], data and plots from the MD Simulations of LC3 proteins in cytosolic state [alias: pre], membrane-bound apo state [alias: unb/unbound] and membrane-bound state with p62-LIR receptor [alias: bnd/bound]. <br>
 In addition, the repository contains data obtained from the in-silico screening of mutations at the allosteric site. <br>
 Source data are compiled according to the main figures presented in the paper. The supplementary videos related to the manuscript are also deposited.<br>
